@@ -5,25 +5,26 @@ const projects = [
   {
     title: "Monitoring App",
     description: "A real-time CPU & RAM monitoring application built using Flask, Docker, and CI/CD deployment. The application is containerized and deployed on AWS EKS for efficient monitoring and scalability.",
-    github: "https://github.com/yourrepo",
+    github: "https://github.com/DineshV22/cloud-native-monitoring-app",
     live: "https://github.com/DineshV22/cloud-native-monitoring-app",
   },
   {
     title: "Walmart Sales Analysis",
     description: "I analyzed Walmart sales data using Python and Pandas to uncover sales trends, customer behavior, and the impact of discounts. The project helped identify revenue patterns, best-selling categories, and spending habits through data visualization.",
-    github: "https://github.com/yourrepo",
+    github: "https://github.com/DineshV22/Data-analysis/tree/main/Walmart-Sales-Analysis",
     live: "https://github.com/DineshV22/Data-analysis/tree/main/Walmart-Sales-Analysis",
   },
   {
     title: "Portfolio Website",
     description: "A dynamic and responsive portfolio website built using React and Tailwind CSS to showcase my projects, skills, and experience. The site features smooth animations, a modern UI, and a well-structured layout for easy navigation. It highlights my work through interactive elements and provides a seamless user experience.",
-    github: "https://github.com/yourrepo",
-    live: "https://yourliveproject.com",
+    github: "https://github.com/DineshV22/portfolio",
+    live: "https://portfolio-pink-nine-76.vercel.app/",
   },
   {
     title: "ICC Champions Trophy Analysis",
     description: "I analyzed ICC Champions Trophy data (1998-2025) using Power BI to explore key insights like top-performing teams, Player of the Match awards, toss impact, and winning margins. The project includes visualizations like bar charts, pie charts, and line graphs to present the findings effectively.",
     github: "https://github.com/DineshV22/Data-analysis/tree/main/Champions%20Trophy",
+    live: "https://github.com/DineshV22/Data-analysis/tree/main/Champions%20Trophy",
   }
 ];
 
